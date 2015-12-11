@@ -23,6 +23,6 @@ def generate(input_file, output_file):
 
 
 if __name__ == "__main__":
-    generate("data.json", "Iranian Channels.m3u")
+    generate("TVs.json", "Iranian Channels.m3u")
     generate("movies/movies.json", "Movies.m3u")
 
